@@ -170,6 +170,11 @@ Ustanovení § 3 provádí klíčové kategorizační dělení železničních d
 
 Zákon takto rozlišuje dráhy podle míry jejich zapojení do celostátní či mezinárodní dopravní sítě (celostátní, regionální) od drah lokálního nebo účelového významu (místní dráha, vlečka) a od drah se specifickým technickým nebo zkušebním účelem (zkušební dráha, speciální dráha sloužící typicky k zajištění dopravní obslužnosti obce, např. drahy typu metra). Rozhodování o zařazení dráhy do kategorie a o změně tohoto zařazení svěřuje odstavec 2 drážnímu správnímu úřadu, což zajišťuje jednotnost posuzování a možnost správního přezkumu.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 Odo 825/2002](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/95E72BCB99B24F58C1257A4E00676FA1?openDocument) — 25. 2. 2003, kat. A
+  > „Občanské sdružení nemůže být zapsáno do obchodního rejstříku"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Vlastník průmyslového areálu provozuje kolejové napojení na celostátní železniční síť sloužící výhradně k zásobování vlastní továrny a příležitostně i sousedního závodu jiného podnikatele.
